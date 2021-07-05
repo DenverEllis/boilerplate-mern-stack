@@ -1,5 +1,4 @@
-Hello, My Friends  
-Thank you for having interest in this repository ! 
+Current TODO - Minimize dependencies. The list of packages are a hefty download of 15s on 3G
 
 To use this application, 
 
